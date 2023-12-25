@@ -4,5 +4,3 @@ requests_html
 html2text
 llama-index
 watchdog
-pypdf
-beautifulsup4
